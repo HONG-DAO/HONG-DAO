@@ -1,4 +1,4 @@
-# Hi, I'm Hong_Dao! 👋
+<marquee behavior="alternate"># Hi, I'm Hong_Dao! 👋
 
 I'm a 2nd year student majoring in Data Science.
 
@@ -31,9 +31,6 @@ I'm a 2nd year student majoring in Data Science.
 
 ### 📫 How to Reach Me:
 <p align="left">
-  <a href="mailto:daon53220@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://www.linkedin.com/in/h%E1%BB%93ng-%C4%91%C3%A0o-undefined-a043402b9/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.facebook.com/profile.php?id=100026950701592"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 </p>
 
 ### ⚡ GitHub Stats:
