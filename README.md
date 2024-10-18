@@ -1,6 +1,5 @@
-<marquee behavior="alternate">
-  Hi! 👋 My name is Nguyen Thi Hong Dao 👋
-</marquee>
+
+<marquee behavior="alternate"> Hi! 👋 My name is Nguyen Thi Hong Dao 👋</marquee>
 
 <hr color="#7c7780" />
 
