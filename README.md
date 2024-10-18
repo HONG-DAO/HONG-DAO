@@ -1,20 +1,19 @@
 <marquee behavior="alternate">
-  <span style="font-size: 60px;">Hi! 👋 My name is Nguyen Thi Hong Dao 👋</span>
+  ">Hi! 👋 My name is Nguyen Thi Hong Dao 👋
 </marquee>
 
 <hr color="#7c7780" />
 
-<span style="font-size: 24px;">I'm a 2nd year student majoring in Data Science.</span>
+">I'm a 2nd year student majoring in Data Science.
 
-<span style="font-size: 20px;">
 🌍  I'm based in Ho Chi Minh city.<br/>
 🚀  I'm currently working on Visual Studio Code Extension.<br/>
 🧠  I'm learning Python, Tensorflow, Numpy, Pytorch, Pandas, SQL, Power BI.<br/>
-🤝  I'm open to collaborating on community service projects.</span>
+🤝  I'm open to collaborating on community service projects.
 
 <hr color="#7c7780" size="3px"/>
 
-<span style="font-size: 30px;">🔧Languages-Frameworks-Tools🔧</span>
+🔧Languages-Frameworks-Tools🔧
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
@@ -22,7 +21,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-learn" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB" width="50" height="50"/>
@@ -32,7 +31,7 @@
 
 <hr color="#7c7780" size="3px"/>
 
-<span style="font-size: 30px;">📫 How to Reach Me:</span>
+📫 How to Reach Me:
 
 <p align="left">
    <a href="mailto:daon53220@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a><br/>
@@ -41,6 +40,7 @@
 </p>
 
 <hr color="#7c7780" size="3px"/>
+
 <p align="center">
-<span style="font-size: 30px;">Thanks for stopping by! 😊 Feel free to connect and say hi!</span>
+Thanks for stopping by! 😊 Feel free to connect and say hi!
 </p>
