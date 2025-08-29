@@ -3,7 +3,7 @@
 
 <hr color="#7c7780" />
 
-I'm a 2nd year student majoring in Data Science.
+I'm a 3nd year student majoring in Data Science.
 
 🌍  I'm based in Ho Chi Minh city.<br/>
 🚀  I'm currently working on Visual Studio Code Extension.<br/>
